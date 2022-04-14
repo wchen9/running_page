@@ -8,7 +8,7 @@ module.exports = {
     navLinks: [
       {
         name: 'Blog',
-        url: 'https://run.wangc.org',
+        url: 'https://blog.wangc.org',
       },
       {
         name: 'About',
